@@ -32,6 +32,6 @@ Timeframes vary and we are unable to directly commit to any specific deadline af
 
 You can take advantage of GitHub reactions. Simply open the issue, and add a reaction.
 
-![GitHub reactions inside an issue](img/reaction.PNG)
+![GitHub reactions inside an issue](img/react-issue.gif)
 
 The added benefit to this is we also see how many people don't like a feature, compared to those that want it implemented - this allows us to design better functionality.
