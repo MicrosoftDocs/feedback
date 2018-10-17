@@ -1,0 +1,38 @@
+---
+name: "\U0001F41B Bug Report"
+about: Alguma coisa está errada no dominio docs.microsoft.com.
+
+---
+
+**Descreva o bug**
+Uma descrição clara e concisa do que se trata o bug.
+
+**Para replicar**
+Passos para repetir o comportamento:
+1. Va até '...'
+2. Clique no '....'
+3. Deslize até '....'
+4. Observe o erro
+
+**Comportamento esperado**
+Uma descrição clara de concisa do que é esperado acontecer.
+
+**Screenshots**
+Se necessário, adicione fotos da tela para ajudar na explicação do seu problema.
+
+**Desktop (Por favor, preencha com a seguintes informações):**
+ - Sistema Operacional: [ex. iOS]
+ - Navegador [ex. chrome, safari]
+ - Versão [ex. 22]
+
+**Smartphone (Por favor, preencha com a seguintes informações):**
+ - Aparelho: [ex. iPhone6]
+ - Sistema Operacional: [ex. iOS8.1]
+ - Navegador [ex. Navegador padrão, safari]
+ - Versão [ex. 22]
+
+**Contexto adicional**
+Adicione um outro contexto do problema aqui.
+
+[Nota]: Preferível que o Bug seja reportado em inglês, esse templete em PT-BR foi criado apenas 
+para um melhor entendimento. 
