@@ -6,7 +6,7 @@ For content or product suggestions, please use the appropriate channels, usually
 
 ## Submitting Ideas
 
-Navigate to [**Issues**](https://github.com/MicrosoftDocs/feedback/issues) and open a new issue with all the relevant details. We will triage those as soon as possible.
+Navigate to [**Issues**](https://github.com/MicrosoftDocs/feedback/issues/new/choose) and open a new issue with all the relevant details. We will triage those as soon as possible.
 
 ![Adding a GitHub issue](img/add-issue.gif)
 
