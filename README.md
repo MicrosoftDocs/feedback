@@ -12,7 +12,7 @@ Navigate to [**Issues**](https://github.com/MicrosoftDocs/feedback/issues/new/ch
 
 ## Code of Conduct
 
-We follow the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). We reserve the right to close, modify or remove ideas presented in this repository that are deemed to be in violation of the code of conduct.
+We follow the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). We reserve the right to close, modify or remove ideas presented in this repository that are deemed to violate the code of conduct.
 
 ## Questions
 
