@@ -1,12 +1,12 @@
-# Microsoft Open Source Code of Conduct
+# Microsoft Open-Source Code of Conduct
 
-This code of conduct outlines expectations for participation in Microsoft-managed open source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
+This code of conduct outlines expectations for participation in Microsoft-managed open-source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
 
-Our open source communities strive to:
+Our open-source communities strive to:
 
 -   **Be friendly and patient:** Remember you might not be communicating in someone else's primary spoken or programming language, and others may not have your level of understanding.
 -   **Be welcoming:** Our communities welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
--   **Be respectful:** We are a world-wide community of professionals, and we conduct ourselves professionally. Disagreement is no excuse for poor behavior and poor manners. Disrespectful and unacceptable behavior includes, but is not limited to:
+-   **Be respectful:** We are a worldwide community of professionals, and we conduct ourselves professionally. Disagreement is no excuse for poor behavior and poor manners. Disrespectful and unacceptable behavior includes, but is not limited to:
     -   Violent threats or language.
     -   Discriminatory or derogatory jokes and language.
     -   Posting sexually explicit or violent material.
@@ -19,13 +19,13 @@ Our open source communities strive to:
 
 ## Scope
 
-This code of conduct applies to all repos and communities for Microsoft-managed open source projects regardless of whether or not the repo explicitly calls out its use of this code. The code also applies in public spaces when an individual is representing a project or its community. Examples include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This code of conduct applies to all repositories and communities for Microsoft-managed open-source projects regardless of whether or not the repo explicitly calls out its use of this code. The code also applies in public spaces when an individual is representing a project or its community. Examples include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
 Note: Some Microsoft-managed communities have codes of conduct that pre-date this document and issue resolution process. While communities are not required to change their code, they are expected to use the resolution process outlined here. The review team will coordinate with the communities involved to address your concerns.
 
 ## Reporting Code of Conduct Issues
 
-We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [opencode@microsoft.com](mailto:opencode@microsoft.com). Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. If an issue cannot be resolved locally, please feel free to report your concerns by contacting [opencode@microsoft.com](mailto:opencode@microsoft.com). Your report will be handled as per the issue resolution process detailed in the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
 
 In your report please include:
 
