@@ -1,4 +1,4 @@
-+-----**_Contribution Control Checklist_**-----
++  -----**_Contribution Control Checklist_**-----
 +
 + Here we will simplify things for new members of Githut that want to contribute to differents projects 
 + by creating a contribution checklist. 
