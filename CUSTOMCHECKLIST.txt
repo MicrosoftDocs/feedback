@@ -1,44 +1,62 @@
-**_Contribution Control Checklist_**
-
-
-
-
-
-
-
-**Sections**
-
-1- Starting Point
-
-2- Integration
-
-3- Levelling up
-
-
-
-
-
-
-*Section 1*
-
-1.1- 
-
-1.2- 
-
-1.3-
-
-*Section 2*
-
-2.1- 
-
-2.2- 
-
-2.3-
-
-*Section 3*
-
-3.1- 
-
-3.2- 
-
-3.3-
++  -----**_Contribution Control Checklist_**-----
++
++ Here we will simplify things for new members of Githut that want to contribute to differents projects 
++ by creating a contribution checklist. 
++
++
++ *This list can be* ; 
++
++ -Modified- 
++ -Edited- 
++ -Add new checklist implementations- 
++ -Add roles and group to the checklist ; Work progress can be done remotely when in a group 
++ and all have acces to the checklist working on the same project in Live Capture mode
++
++
++
++
++
++
++ **Sections and Sub-Sections**
++
++
++ _Starting Point_
++
++ 1--You want to contribute with us or have some good ideas that you would like to share ? You want to help us grow this community and make things easier for other members or reader's that will seek for advise ? This guide and contributibution-control checklist will help you to do it. 
++
++
++
++ 2- Integration, presentation of yourself is always a good idea and a good starting point. Most of the time people will not do it,by creating a good profile it can just be helpfull for you and others to get to know you. Edith your profile and informations about yourself and what you plan to do here. This guide is even good for existing members or contributor's. Now make yourself a nice profile with a picture of yourself and keep in mind that this picture will reflect and have impact on how others members or contributors will see you. 
++
++
++
++ 3- Levelling up now by navigating and looking at the differents sections and tools that we put at your dispositions to expand yourself. The next-generation will all depend on yourself and your freshly ideas that you bring here. Remember, what you do here will reflect on how people will see you, the way you connect with others members and contributors will be seen by all of us. We will expand this further in the guide to make yourself a better contributors and make sure that you understand that the relationship ,attitude and many more aspects of you, is by far the most important in here. Having these qualitys is also a key-role not only for here but everywhere you will go. 
++
++
++
++
++
++
++ *Section 1 : Know Yourself, Socrate*
++
++ 1- The attitude. The way you talk to others, the way you act, not because you are not in a team or physically with members that you can act like a fool or, the word we like to use that you probably heard many times ; Internet Troll. Do yourself a favor, always act like a gentleman even in the worst situations. Sometimes you will see or read something that is or that you think is either bad or irespectfull, don't get crazy about it, think about it two times before reacting to it ; Internet post forum, comments etc. Most of the time there is Administrator or executive members that will take care of that.   
++
++ 2- The respect. Give respect to have respect or receive respect . Again in most of situations you will encounter, having respect in general , will give you only benefits , like's from other and make life better. The respect is a big quality to have and you want this. You will also show others how they should act and you will become the contribution checklist yourself. Being respectfull will help you anywhere you go, anything you do. 
++
++ 3- Know Yourself. You can't be perfect in every aspect, but you surely become an almost perfect gentleman with this guide. You will be a better person in general even if you already was. This apply to all, the Administrator, founders , contributors, readers, etc. Knowing yourself is not always easy, sometimes people will not tell you what they think about you. Kin mind to always treat other the way you would like to be treated. Be polite, respectfull and nice, these are qualitys that we are looking for you to have while you are here. if you follow this guide, everyone will like you and you will never run into problems about your attitude or anything related to it. You can disaproove what a members say, but not because you don't like what you see on a chat post or a forum, that you can be disrespectfull with the author. Different people, different opinions, is the world we live in. This is the very beginning of you reaching another level instance we want you to be.   
++
++ *Section 2*
++
++ 1- 
++
++ 2- 
++
++ 3-
++
++ *Section 3*
++
++ 1- 
++
++ 2- 
++
++ 3-
