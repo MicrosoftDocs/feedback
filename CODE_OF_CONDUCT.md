@@ -50,7 +50,7 @@ Note: Some Microsoft-managed communities have codes of conduct that pre-date thi
 
 *WE ENCOURAGE ALL COMMUNITIES TO RESOLVE ISSUES ON THEIR OWN WHENEVER POSSIBLE.* 
 
-This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [opencode@microsoft.com](mailto:opencode@microsoft.com). Your report will be handled in accordance with the issue resolution process described in the code of conduct FAQ. 
+This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting   [opencode@microsoft.com](mailto:opencode@microsoft.com). Your report will be handled in accordance with the issue resolution process described in the code of conduct FAQ. 
 
 ----------
 # [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
