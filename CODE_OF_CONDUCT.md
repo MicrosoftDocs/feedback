@@ -76,7 +76,7 @@ _This code of conduct is based on the [template](http://todogroup.org/opencodeof
 
 
 
-> **I would like to add a special comments for Microsoft and their team.  They let us build the future of the web giving us the tools we need and the ressources available are almost unlimited. I wish to say many Thanks to the contributors who did play a crucial role into this, and did bring many  but many hours on the table from their own time for free. This is a great community, and let's keep it that way. Thanks also to Github, Gitcoin and all their Partner's or Affiliates. Merry Christmas and Happy New Years 2020 ! Cheers !**
+> **I would like to add a special comments for Microsoft and their team. They let us build the future of the web giving us the tools we need and the ressources available are almost unlimited. I wish to say many Thanks to the contributors who did play a crucial role into this, and did bring many  but many hours on the table from their own time for free. This is a great community, and let's keep it that way. Thanks also to Github, Gitcoin and all their Partner's or Affiliates. In 2020, let's make a difference! Cheers and Happy Contributing!**
 
 ----------
 
