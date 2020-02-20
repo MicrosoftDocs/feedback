@@ -1,6 +1,9 @@
 ---
 name: "\U0001F4DA Content Issue"
 about: Something is wrong with an article on docs.microsoft.com.
+title: ''
+labels: content
+assignees: ''
 
 ---
 
