@@ -1,6 +1,9 @@
 ---
 name: "\U0001F680 Feature Request"
 about: Tell us how we can make docs.microsoft.com awesome!
+title: ''
+labels: enhancement
+assignees: ''
 
 ---
 
