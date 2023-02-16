@@ -1,6 +1,6 @@
 ![docs.microsoft.com feedback logo](img/docs-feedback.png)
 
-Welcome to the [docs.microsoft.com](https://docs.microsoft.com) feedback repository! This is the place to provide any comments, suggestions or ideas on **docs.microsoft.com site functionality**.
+Welcome to the [learn.microsoft.com](https://learn.microsoft.com) feedback repository! This is the place to provide any comments, suggestions or ideas on **learn.microsoft.com site functionality**.
 
 For content or product suggestions, please use the appropriate channels, usually available in the footer of the article you were reading.
 
@@ -16,7 +16,7 @@ We follow the [Microsoft Open Source Code of Conduct](https://opensource.microso
 
 ## Questions
 
-If you want to know something about [docs.microsoft.com](https://docs.microsoft.com), you can open an issue with `[Question]` at the start of the title to mark something as a question and not a suggestion to change/add functionality. Or you can [reach out to us on Twitter](https://twitter.com/docsmsft).
+If you want to know something about [learn.microsoft.com](https://learn.microsoft.com), you can open an issue with `[Question]` at the start of the title to mark something as a question and not a suggestion to change/add functionality. Or you can [reach out to us on Twitter](https://twitter.com/docsmsft).
 
 ## FAQ
 
