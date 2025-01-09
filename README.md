@@ -1,4 +1,4 @@
-This repository has been archived. In 2024, Microsoft Learn shifted to a new feedback submission and management model, which is described in [Announcing a new way to give feedback on Microsoft Learn](https://techcommunity.microsoft.com/blog/microsoftlearnblog/announcing-a-new-way-to-give-feedback-on-microsoft-learn/4027635) 
+This repository has been archived. In 2024, Microsoft Learn shifted to a new feedback submission and management model, which is described in [Announcing a new way to give feedback on Microsoft Learn](https://techcommunity.microsoft.com/blog/microsoftlearnblog/announcing-a-new-way-to-give-feedback-on-microsoft-learn/4027635). 
 
 ## Code of Conduct
 
